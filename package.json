@@ -7,7 +7,7 @@
   },
   "nativePackage": true,
   "description": "Notification for React Native",
-  "author": "Neson <neson@dex.tw>",
+  "author": "",
   "homepage": "https://github.com/Neson/react-native-system-notification",
   "license": "MIT",
   "keywords": [
